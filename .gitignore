@@ -1,1 +1,6 @@
 /data/
+/notebooks/model_classification/regression_model.pkl
+/notebooks/model_classification/X_test.pkl
+/notebooks/model_classification/X_train.pkl
+/notebooks/model_classification/y_test.pkl
+/notebooks/model_classification/y_train.pkl
